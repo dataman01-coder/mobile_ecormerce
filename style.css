@@ -55,7 +55,6 @@
     background:#3b3a3a;
     color:#fff;
     height: 450px;
-    margin: 10px 10px;
     border-radius:10px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -102,7 +101,11 @@
 }
 
 
-
+.landing{
+    width:80%;
+    margin:auto;
+    margin-top:10px;
+}
 
 
 
